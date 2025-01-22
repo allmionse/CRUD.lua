@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "before_each",
+        "describe",
+        "it"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-field"
+    ]
+}
