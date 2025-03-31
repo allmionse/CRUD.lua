@@ -43,5 +43,5 @@ This script is a basic example of CRUD in Lua. It can be expanded to include fea
 
 Created by allmionse
 
-    GitHub: github.com/allmionse
+- **GitHub:** [github.com/allmionse](https://github.com/allmionse)
 
