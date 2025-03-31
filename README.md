@@ -41,5 +41,8 @@ Follow the instructions in the menu to create, list, complete, or remove tasks.
 This script is a basic example of CRUD in Lua. It can be expanded to include features such as data persistence (in files or databases), more robust input validation, more comprehensive error handling, and a more sophisticated user interface.
 
 
+Sobre el Autor
+Creado por allmionse
 
-Made with ♡ by Milionse.io
+    GitHub: github.com/allmionse
+
